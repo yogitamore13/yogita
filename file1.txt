@@ -1,5 +1,3 @@
 Helo Everyone!!!!
  
 Pratical 1: laboratory 
- 
-configration, Navigation and intialization
